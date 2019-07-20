@@ -3,3 +3,5 @@ checking the status command
 adding some more content ot testfile 2
 
 addig content to newbranch
+
+adding more content to new branch 
