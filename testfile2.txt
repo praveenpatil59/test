@@ -1,6 +1,13 @@
 checking the status command
 
 adding some more content ot testfile 2
+<<<<<<< HEAD
 adding content to check revert commanf
 
 adding  content tot master branch testfile2
+=======
+
+addig content to newbranch
+
+adding more content to new branch 
+>>>>>>> Newbranch
